@@ -1,0 +1,26 @@
+body{ font-size: 12px;}
+#show{
+    width:200px;
+    height:200px;
+    background-image: url("../images/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 10px 10px 10px #ccc;
+}
+#showimg{
+    width: 200px;
+    height: 200px;
+    transform: rotate(45deg);
+}
+#showimg img{
+    width: 100%;
+    height: 100%;
+    border-radius: 3px;
+}
+#nav-list{
+    width: 200px;
+    height:200px;
+    background: red;
+    font-size: 12px;
+    box-sizing: border-box;
+}
